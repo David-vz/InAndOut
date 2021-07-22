@@ -1,0 +1,5 @@
+
+*.dll
+*.cache
+bin/Debug/*
+obj/Debug/*
