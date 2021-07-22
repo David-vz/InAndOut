@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6wyeDWKt/+FQdAfGZJu8WXt/GaYfSehBv2s/doce3q0KoG5dl+oZt8ewuBpoJk1DZfFImIpMoQYmpu9p0MY7g==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\David\\source\\repos\\InAndOut\\InAndOut\\InAndOut.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
